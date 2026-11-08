@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "offerKeywords": [
+    "aceitar",
+    "accept",
+    "corresponder",
+    "match",
+    "toque para aceitar",
+    "tap to accept",
+    "novo pedido",
+    "new request"
+  ],
+  "acceptedKeywords": [
+    "a caminho",
+    "recolher",
+    "recolha de",
+    "picking up",
+    "pick up",
+    "chegou",
+    "arrived",
+    "navegar",
+    "navigate",
+    "iniciar viagem",
+    "start trip",
+    "a ir buscar",
+    "cliente à espera"
+  ],
+  "offlineKeywords": [
+    "ficar online",
+    "go online",
+    "está offline",
+    "you're offline",
+    "you are offline",
+    "ficar disponível"
+  ],
+  "priceRegexes": [],
+  "pairRegexes": [],
+  "priceExcludeWords": [
+    "ganhos",
+    "ganhou",
+    "hoje",
+    "earnings",
+    "today",
+    "saldo",
+    "balance",
+    "semana",
+    "week",
+    "total"
+  ]
+}
